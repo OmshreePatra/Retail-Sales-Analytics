@@ -176,9 +176,8 @@ LIMIT 5;
 
 ## Dashboard Preview
 
-```markdown
 ![Dashboard](reports\charts\Dashboard.png)
-```
+
 
 ---
 
