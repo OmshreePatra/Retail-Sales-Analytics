@@ -175,8 +175,7 @@ LIMIT 5;
 ---
 
 ## Dashboard Preview
-
-![Dashboard](reports\charts\Dashboard.png)
+![Dashboard](./reports/charts/dashboard_preview.png)
 
 
 ---
