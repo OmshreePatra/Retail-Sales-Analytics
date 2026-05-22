@@ -176,10 +176,8 @@ LIMIT 5;
 
 ## Dashboard Preview
 
-Add dashboard screenshots here.
-
 ```markdown
-![Dashboard](reports/charts/Dashboard.png)
+![Dashboard](reports\charts\Dashboard.png)
 ```
 
 ---
